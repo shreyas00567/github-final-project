@@ -1,0 +1,15 @@
+﻿COMMAND: git branch -a
+
+bug-fix-typo
+* main
+remotes/origin/HEAD -> origin/main
+remotes/origin/bug-fix-typo
+remotes/origin/main
+
+COMMAND: git status
+
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+(use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
